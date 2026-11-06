@@ -19,7 +19,7 @@ current_phase: 3
 phases:
   - id: 1
     title: 프로젝트 골격
-    goal: 로그인 없이 지도 화면까지 러다
+    goal: 로그인 없이 지도 화면까지 뜬다
     done:
       - Expo 앱 실행
       - 지도 WebView 표시
