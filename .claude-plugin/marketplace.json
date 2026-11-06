@@ -1,0 +1,19 @@
+{
+  "name": "yeonb0-plugins",
+  "owner": {
+    "name": "Yeonb0"
+  },
+  "description": "Yeonb0의 개발일지 · 블로그 게시 플러그인",
+  "plugins": [
+    {
+      "name": "devlog",
+      "source": "./plugins/devlog",
+      "description": "프로젝트를 Phase 단위로 나누고, 세션 기록을 모아 Phase가 끝나면 Jekyll 블로그에 개발일지 초안을 PR로 올립니다"
+    },
+    {
+      "name": "notion-publish",
+      "source": "./plugins/notion-publish",
+      "description": "Notion 페이지 URL을 넘기면 Jekyll 블로그 저장소의 Action이 원문 그대로 변환해 게시합니다"
+    }
+  ]
+}

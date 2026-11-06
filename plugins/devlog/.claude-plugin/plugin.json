@@ -1,0 +1,17 @@
+{
+  "name": "devlog",
+  "version": "0.1.0",
+  "description": "프로젝트를 Phase 단위로 나누고, 세션마다 결정과 이유를 기록했다가 Phase가 끝나면 Jekyll 블로그에 개발일지 초안을 PR로 올립니다",
+  "author": {
+    "name": "Yeonb0"
+  },
+  "repository": "https://github.com/Yeonb0/Yeonb0.github.io",
+  "keywords": [
+    "devlog",
+    "개발일지",
+    "jekyll",
+    "blog",
+    "phase"
+  ],
+  "license": "MIT"
+}

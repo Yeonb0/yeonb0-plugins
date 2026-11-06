@@ -1,0 +1,1 @@
+[devlog 플러그인] 작업 중인 저장소에 `.devlog/config.yml` 이 있으면 phase-guide 스킬의 규칙을 따른다 : 새 프로젝트나 구현 계획에서는 Phase 분할을 제안하고, 현재 Phase의 완료 기준이 충족되면 `/devlog:publish` 를 제안하며 (직접 실행하지 않음), 의미 있는 결정이 있었던 세션을 마칠 때는 `/devlog:note` 로 기록할지 묻는다.
