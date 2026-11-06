@@ -1,0 +1,16 @@
+{
+  "name": "notion-publish",
+  "version": "0.1.2",
+  "description": "Notion 페이지 URL을 넘기면 Jekyll 블로그 저장소의 Action이 원문 그대로 변환해 게시합니다",
+  "author": {
+    "name": "Yeonb0"
+  },
+  "repository": "https://github.com/Yeonb0/Yeonb0.github.io",
+  "keywords": [
+    "notion",
+    "jekyll",
+    "blog",
+    "publish"
+  ],
+  "license": "MIT"
+}
